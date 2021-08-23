@@ -1,1 +1,1 @@
-Voy a hacer un projecto de la pagina The Odin Project.
+Voy a hacer un projecto de la pagina The Odin Project, recreando la pagina principal de Google.com
